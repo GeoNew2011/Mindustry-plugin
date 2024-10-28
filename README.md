@@ -8,4 +8,3 @@ New commands (for player)
 Protection from Thorium reactor:
 - Warning message on building
 - Alert & killing player on building near team core
-[//]: # (Shit agzam updated his plugin I nees to fix it again)
